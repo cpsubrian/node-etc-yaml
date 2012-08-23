@@ -1,0 +1,6 @@
+# This is some YAML configuration for testing.
+host: localhost
+port: 8080
+person:
+  name: Brian
+  alias: cpsubrian

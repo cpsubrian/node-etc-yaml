@@ -1,0 +1,27 @@
+{
+  "name": "etc-yaml",
+  "version": "0.0.1",
+  "description": "YAML configuration parser for `etc`",
+  "main": "etc-yaml.js",
+  "scripts": {
+    "test": "./node_modules/mocha/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cpsubrian/node-etc-yaml.git"
+  },
+  "dependencies": {
+    "js-yaml": "~1.0.2"
+  },
+  "devDependencies": {
+    "etc": "*",
+    "mocha": "~1.4.0"
+  },
+  "keywords": [
+    "etc",
+    "configuration",
+    "yaml"
+  ],
+  "author": "Brian Link",
+  "license": "MIT"
+}
