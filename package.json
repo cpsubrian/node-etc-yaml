@@ -1,10 +1,10 @@
 {
   "name": "etc-yaml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "YAML configuration parser for `etc`",
   "main": "etc-yaml.js",
   "scripts": {
-    "test": "./node_modules/mocha/.bin/mocha --reporter spec"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",

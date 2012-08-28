@@ -3,6 +3,8 @@ node-etc-yaml
 
 YAML configuration parser for [node-etc](https://github.com/cpsubrian/node-etc).
 
+[![build status](https://secure.travis-ci.org/cpsubrian/node-etc-yaml.png)](http://travis-ci.org/cpsubrian/node-etc-yaml)
+
 Usage
 -----
 ```js
