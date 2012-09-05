@@ -4,3 +4,5 @@ port: 8080
 person:
   name: Brian
   alias: cpsubrian
+optimize: false
+turbo: true
