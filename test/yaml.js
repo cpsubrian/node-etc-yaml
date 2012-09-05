@@ -14,6 +14,8 @@ describe('YAML etc plugin', function() {
     conf.file(path.join(__dirname, 'config.yaml'));
     assert.equal(conf.get('host'), 'localhost');
     assert.equal(conf.get('person:name'), 'Brian');
+    assert.strictEqual(conf.get('optimize'), false);
+    assert.strictEqual(conf.get('turbo'), true);
   });
 
 });
