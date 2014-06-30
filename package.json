@@ -11,7 +11,7 @@
     "url": "git://github.com/cpsubrian/node-etc-yaml.git"
   },
   "dependencies": {
-    "js-yaml": "~1.0.2"
+    "js-yaml": "~3.0.2"
   },
   "devDependencies": {
     "etc": "*",
