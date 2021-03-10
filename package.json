@@ -11,11 +11,11 @@
     "url": "git://github.com/cpsubrian/node-etc-yaml.git"
   },
   "dependencies": {
-    "js-yaml": "~3.0.2"
+    "js-yaml": "^4.0.0"
   },
   "devDependencies": {
     "etc": "*",
-    "mocha": "~1.4.0"
+    "mocha": "^8.2.1"
   },
   "keywords": [
     "etc",
